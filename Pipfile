@@ -1,2 +1,2 @@
 [requires]
-telebot
+python_full_version = "python-3.6.5"
